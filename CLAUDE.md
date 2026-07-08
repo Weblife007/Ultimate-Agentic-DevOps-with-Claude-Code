@@ -13,9 +13,9 @@ Pure HTML5 and CSS3. No JavaScript. No build step. No framework.
 ---
 
 ## Commands
-- `terraform init`
-- `terraform plan`
-- `terraform apply`
+- terraform init
+- terraform plan
+- terraform apply
 
 ---
 
