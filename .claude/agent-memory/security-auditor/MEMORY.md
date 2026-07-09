@@ -1,0 +1,2 @@
+- [Portfolio Terraform baseline findings](project_portfolio_terraform_baseline.md) — open S3/CloudFront security gaps as of 2026-07-09 audit, check for regressions/fixes
+- [Repo scope reference](reference_repo_scope.md) — Terraform lives only in `terraform/`, no IAM/OIDC in IaC; CI/CD auth method needs separate check in `.github/workflows/`

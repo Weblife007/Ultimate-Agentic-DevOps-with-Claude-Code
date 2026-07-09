@@ -1,0 +1,1 @@
+- [Portfolio Cost Review](portfolio-infrastructure-review.md) — S3+CloudFront cost optimization for static portfolio site in ap-south-1
